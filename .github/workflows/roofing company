@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Roofing419 | Toledo Ohio Roofing Contractors</title>
+<meta name="description" content="Roofing419 provides expert roofing services in Toledo, OH. Roof replacement, emergency repairs, metal & shingle roofing, residential and commercial roofing.">
+<style>
+  /* Basic Reset */
+  * {margin:0; padding:0; box-sizing:border-box; font-family: Arial, sans-serif;}
+  body {line-height:1.6; color:#333; background:#f9f9f9;}
+
+  /* Header */
+  header {background:#1c3d5a; color:#fff; padding:20px 10%; display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap;}
+  header h1 {font-size:28px;}
+  nav ul {list-style:none; display:flex; flex-wrap:wrap;}
+  nav ul li {margin-left:20px;}
+  nav ul li a {color:#fff; text-decoration:none; font-weight:bold; transition:0.3s;}
+  nav ul li a:hover {color:#ffb100;}
+  .contact-info p {margin:5px 0; font-size:14px;}
+
+  /* Hero Section */
+  #home {background:#ffb100; color:#1c3d5a; text-align:center; padding:80px 10%;}
+  #home h2 {font-size:36px; margin-bottom:20px;}
+  #home p {font-size:18px; margin-bottom:30px;}
+  #home .btn {background:#1c3d5a; color:#fff; padding:12px 25px; text-decoration:none; border-radius:5px; transition:0.3s;}
+  #home .btn:hover {background:#0f2b42;}
+
+  /* Sections */
+  section {padding:60px 10%;}
+  section h2 {font-size:32px; color:#1c3d5a; margin-bottom:30px; text-align:center;}
+  section p {text-align:center; margin-bottom:30px;}
+  
+  /* Services */
+  .service-list {display:flex; flex-wrap:wrap; justify-content:space-around;}
+  .service-item {background:#fff; padding:20px; margin:10px; flex:1 1 300px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.1);}
+  .service-item h3 {color:#ffb100; margin-bottom:15px;}
+  .service-item p {font-size:16px;}
+
+  /* Projects */
+  .project-gallery {display:flex; flex-wrap:wrap; justify-content:space-around; gap:15px;}
+  .project-item {background:#1c3d5a; color:#fff; padding:40px 20px; flex:1 1 250px; border-radius:8px; text-align:center;}
+
+  /* About */
+  #about ul {list-style:disc inside; margin-top:20px;}
+  #about ul li {margin-bottom:10px;}
+
+  /* Contact Form */
+  form {max-width:600px; margin:0 auto; background:#fff; padding:20px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.1);}
+  form label {display:block; margin-bottom:5px; font-weight:bold;}
+  form input, form select, form textarea {width:100%; padding:10px; margin-bottom:15px; border:1px solid #ccc; border-radius:5px;}
+  form button {background:#ffb100; color:#1c3d5a; padding:12px 20px; border:none; cursor:pointer; border-radius:5px; font-weight:bold; transition:0.3s;}
+  form button:hover {background:#e6a600;}
+
+  /* Footer */
+  footer {background:#1c3d5a; color:#fff; text-align:center; padding:20px 10%;}
+  footer a {color:#ffb100; text-decoration:none;}
+  footer a:hover {text-decoration:underline;}
+
+  /* Responsive */
+  @media(max-width:768px){
+    nav ul {flex-direction:column; margin-top:10px;}
+    nav ul li {margin-left:0; margin-bottom:10px;}
+  }
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<header>
+  <h1><a href="https://roofing419.com/" style="color:#fff; text-decoration:none;">Roofing419</a></h1>
+  <nav>
+    <ul>
+      <li><a href="https://roofing419.com/">Home</a></li>
+      <li><a href="https://roofing419.com/services/">Services</a></li>
+      <li><a href="https://roofing419.com/project-gallery/">Projects</a></li>
+      <li><a href="https://roofing419.com/about/">About</a></li>
+      <li><a href="https://roofing419.com/get-a-quote/">Contact / Get a Quote</a></li>
+    </ul>
+  </nav>
+  <div class="contact-info">
+    <p>Call Us: <a href="tel:+14195090456" style="color:#fff;">(419) 509-0456</a></p>
+  </div>
+</header>
+
+<!-- Hero -->
+<section id="home">
+  <h2>Trusted Roofing Contractors in Toledo, OH</h2>
+  <p>Roofing419 provides reliable roof replacement, repairs, and installations for homes and businesses in Toledo and surrounding areas.</p>
+  <a href="https://roofing419.com/get-a-quote/" class="btn">Get a Free Quote</a>
+</section>
+
+<!-- Services -->
+<section id="services">
+  <h2>Our Roofing Services</h2>
+  <p>Comprehensive roofing solutions for Toledo residents and businesses.</p>
+  <div class="service-list">
+    <div class="service-item">
+      <h3><a href="https://roofing419.com/roof-replacement/">Roof Replacement</a></h3>
+      <p>Professional <a href="https://roofing419.com/roof-replacement/">roof replacement</a> using high-quality materials for long-lasting performance.</p>
+    </div>
+    <div class="service-item">
+      <h3><a href="https://roofing419.com/residential-roofing/">Residential Roofing</a></h3>
+      <p>Expert <a href="https://roofing419.com/residential-roofing/">residential roofing</a> repairs and installations for Toledo homes.</p>
+    </div>
+    <div class="service-item">
+      <h3><a href="https://roofing419.com/residential-roof-installation/">New Roof Installation</a></h3>
+      <p>Complete <a href="https://roofing419.com/residential-roof-installation/">new roof installation</a> services for homes and commercial properties.</p>
+    </div>
+    <div class="service-item">
+      <h3><a href="https://roofing419.com/emergency-roof-repair/">Emergency Roof Repair</a></h3>
+      <p>Fast response for leaks, storm damage, or unexpected <a href="https://roofing419.com/emergency-roof-repair/">roof problems</a>.</p>
+    </div>
+    <div class="service-item">
+      <h3><a href="https://roofing419.com/metal-roofing/">Metal Roofing</a></h3>
+      <p>Durable, energy-efficient <a href="https://roofing419.com/metal-roofing/">metal roofing</a> installed by experienced Toledo contractors.</p>
+    </div>
+    <div class="service-item">
+      <h3><a href="https://roofing419.com/asphalt-shingle-roofing/">Asphalt Shingle Roofing</a></h3>
+      <p>Reliable <a href="https://roofing419.com/asphalt-shingle-roofing/">asphalt shingle roofing</a> repair and replacement services for residential and commercial properties.</p>
+    </div>
+    <div class="service-item">
+      <h3><a href="https://roofing419.com/storm-demage-roof-repair/">Storm Damage Roof Repair</a></h3>
+      <p>Prompt <a href="https://roofing419.com/storm-demage-roof-repair/">repairs</a> after hail, wind, or storm damage to keep your home safe.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Projects -->
+<section id="projects">
+  <h2>Our Recent Projects</h2>
+  <p>Examples of roof replacements, installations, and repairs completed in Toledo.</p>
+  <div class="project-gallery">
+    <div class="project-item">
+      <a href="https://roofing419.com/project-gallery/">Roof Replacement Project</a>
+    </div>
+    <div class="project-item">
+      <a href="https://roofing419.com/project-gallery/">Residential Roofing Installation</a>
+    </div>
+    <div class="project-item">
+      <a href="https://roofing419.com/project-gallery/">Metal Roof Installation</a>
+    </div>
+    <div class="project-item">
+      <a href="https://roofing419.com/project-gallery/">Emergency Roof Repair</a>
+    </div>
+  </div>
+</section>
+
+<!-- About -->
+<section id="about">
+  <h2>About Roofing419</h2>
+  <p>Roofing419 is a trusted Toledo Ohio roofing contractor providing licensed, insured, and experienced services. We focus on quality workmanship, honesty, and customer satisfaction.</p>
+  <ul>
+    <li>Licensed & Insured Roofing Contractors Toledo OH</li>
+    <li>Lifetime Warranties on Workmanship</li>
+    <li>Residential & Commercial Roofing Solutions</li>
+    <li>Emergency Storm Damage Repairs</li>
+  </ul>
+</section>
+
+<!-- Contact -->
+<form action="mailto:info@roofing419.com" method="post" enctype="text/plain">
+    <label for="name">Name*</label>
+    <input type="text" id="name" name="name" required>
+    
+    <label for="phone">Phone*</label>
+    <input type="tel" id="phone" name="phone" required>
+    
+    <label for="email">Email*</label>
+    <input type="email" id="email" name="email" required>
+    
+    <label for="service">Service Type*</label>
+    <select id="service" name="service" required>
+      <option>Roof Replacement</option>
+      <option>Residential Roofing</option>
+      <option>New Roof Installation</option>
+      <option>Emergency Roof Repair</option>
+      <option>Asphalt Shingle Roofing</option>
+      <option>Metal Roofing</option>
+      <option>Storm Damage Roof Repair</option>
+    </select>
+    
+    <button type="submit">Request Quote</button>
+</form>
+<!-- Footer -->
+<footer>
+  <p>© 2025 Roofing419 | All Rights Reserved | <a href="https://roofing419.com/terms-and-conditions/">Terms & Privacy</a></p>
+</footer>
+
+</body>
+</html>
